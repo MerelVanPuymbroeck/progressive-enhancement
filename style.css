@@ -1,0 +1,89 @@
+p {
+  color:#191970;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 10pt;
+  letter-spacing: 1px;
+}
+
+ol {
+  color:#191970;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 10pt;
+  letter-spacing: 1px;
+}
+
+table {
+  color:#191970;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 10pt;
+  letter-spacing: 1px;
+}
+
+h1, h2 {
+  color:#191970;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 1px;
+}
+
+a {
+  color:#8B0000;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 8pt;
+}
+
+body {
+  width: 90%;
+  margin-left: 5%;
+  background-color: #e8edec;
+  background-image: linear-gradient(#B8D1E8, #CBE3FA); /* Standard syntax (must be last) */
+}
+
+.einde {
+  font-size: 8pt;
+  margin-left: 10%;
+}
+
+div {
+  border: 3px solid gray;
+  background-color:#e0e0d1;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  margin: 45px;
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+  border-spacing: 80px;
+}
+
+.natuur {
+  background-image: url("natuur.jpg");
+  background-size: cover;
+}
+
+.villagers {
+  color:#A52A2A;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.farmer {
+  color:black;
+  font-weight: bold;
+  font-style: italic;
+}
+
+h1 {
+  background-color: yellow;
+  padding: 0.5%;
+}
+
+.good {
+  text-transform: uppercase;
+}
+
+img {
+    float: right;
+  }
